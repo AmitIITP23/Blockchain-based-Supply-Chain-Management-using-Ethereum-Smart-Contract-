@@ -1,4 +1,4 @@
-# Supply Chain Management using Ethereum-Blockchain
+# Blockchain Based Supply Chain Management using Ethereum Smart Contract
 
 # Functionalities
 
